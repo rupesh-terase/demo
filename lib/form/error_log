@@ -1,0 +1,1 @@
+[10-Jun-2014 11:18:57 Etc/GMT] PHP Fatal error:  Class 'sfFormSymfony' not found in /home/evaluxmn/public_html/flycharterquote.com/demo/lib/vendor/symfony/lib/task/generator/skeleton/project/lib/form/BaseForm.class.php on line 12

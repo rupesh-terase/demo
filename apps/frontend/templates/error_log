@@ -1,0 +1,1 @@
+[10-Jun-2014 17:06:09 Etc/GMT] PHP Fatal error:  Call to undefined function include_http_metas() in /home/evaluxmn/public_html/flycharterquote.com/demo/lib/vendor/symfony/lib/task/generator/skeleton/app/app/templates/layout.php on line 4

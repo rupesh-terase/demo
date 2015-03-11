@@ -1,0 +1,1 @@
+[10-Jun-2014 03:03:46 Etc/GMT] PHP Fatal error:  Class 'sfCoreAutoload' not found in /home/evaluxmn/public_html/flycharterquote.com/demo/lib/vendor/symfony/lib/task/generator/skeleton/project/config/ProjectConfiguration.class.php on line 4
